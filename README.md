@@ -1,4 +1,4 @@
-# MIT 6.S191 Lab 1:Music Generation with RNNs
+# MIT 6.S191 Lab 1: Music Generation with RNNs
 
 ![alt text](https://github.com/aamini/introtodeeplearning_labs/raw/master/lab1/img/music_waveform.png)
 
